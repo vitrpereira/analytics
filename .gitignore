@@ -1,1 +1,4 @@
-config/config.py
+/config/config.py
+/*.h
+/*.rb
+*.pyc
