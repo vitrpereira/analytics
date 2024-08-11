@@ -2,3 +2,4 @@
 /*.h
 /*.rb
 *.pyc
+.venv
